@@ -1,0 +1,1 @@
+fetch('https://ibb.co/BV1HQdd4').then(r => r.text()).then(t => console.log('1:', t.match(/https:\/\/i\.ibb\.co\/[^\"]+/g)[0])); fetch('https://ibb.co/hRn6j9hP').then(r => r.text()).then(t => console.log('2:', t.match(/https:\/\/i\.ibb\.co\/[^\"]+/g)[0]));

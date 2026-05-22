@@ -1,0 +1,6 @@
+{
+  "name": "Cockroach Janata Party (CJP)",
+  "description": "A youth-driven, India-first social movement focused on change, awareness, constitutional values, and people's voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
