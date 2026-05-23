@@ -23,9 +23,8 @@ export function GallerySection() {
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
           {/* Main Video Section */}
-          <div className="lg:col-span-2">
-            {/* Replace /cjp-party-video.mp4 with the actual video uploaded to /public */}
-            <ScrollVideo src="/cjp-party-video.mp4" />
+          <div className="lg:col-span-2 flex flex-col justify-start">
+            <ScrollVideo src="https://res.cloudinary.com/dagx74k4y/video/upload/WhatsApp_Video_2026-05-23_at_10.31.52_AM_i2fxbh.mp4" />
             <div className="mt-4 px-2">
               <h3 className="font-montserrat font-bold text-brand-black text-lg">Youth Participation Drive</h3>
               <p className="text-sm text-gray-500">Auto-playing video highlights from our recent events.</p>
