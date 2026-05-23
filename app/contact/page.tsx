@@ -68,7 +68,7 @@ export default function ContactPage() {
                   Office Section
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Headquarters: Delhi Dehat, National Capital Region, India.
+                  Center: India
                   <br />
                   <span className="italic mt-2 block text-gray-500">Note: Please contact via phone or email to schedule an in-person meeting for official assignments.</span>
                 </p>

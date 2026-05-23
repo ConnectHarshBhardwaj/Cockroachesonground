@@ -69,7 +69,7 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-3 text-sm text-gray-600">
                 <MapPin size={18} className="text-brand-red shrink-0 mt-0.5" />
-                <span>Delhi Dehat, National Capital Region, India</span>
+                <span>India</span>
               </li>
             </ul>
           </div>
@@ -91,7 +91,8 @@ export function Footer() {
 
         <div className="pt-8 border-t border-gray-200 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-500 font-medium text-center md:text-left">
-            © {new Date().getFullYear()} Cockroach Janata Party (CJP). All Rights Reserved. Created by hbworksindia[8510823577)
+            © {new Date().getFullYear()} Cockroach Janata Party (CJP). All Rights Reserved.<br/>
+            <span className="block mt-1">Created by hbworksindia(8510823577)</span>
           </p>
           <div className="flex items-center gap-2 text-xs text-brand-red font-medium">
              Cockroach Janata Party (CJP) is a peaceful public movement that supports constitutional and democratic participation.

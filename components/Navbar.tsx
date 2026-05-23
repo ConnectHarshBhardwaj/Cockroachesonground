@@ -12,7 +12,7 @@ const NAV_LINKS = [
   { name: 'Vision', href: '/mission' },
   { name: 'Leadership', href: '/leadership' },
   { name: 'Volunteers', href: '/volunteers' },
-  { name: 'Media', href: '/media' },
+  { name: 'Gallery', href: '/#gallery' },
   { name: 'Contact', href: '/contact' },
 ];
 
